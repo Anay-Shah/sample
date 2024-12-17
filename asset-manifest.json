@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sample/static/css/main.4c719808.chunk.css",
+    "main.js": "/sample/static/js/main.fec47cf8.chunk.js",
+    "main.js.map": "/sample/static/js/main.fec47cf8.chunk.js.map",
+    "runtime-main.js": "/sample/static/js/runtime-main.6ec3bd77.js",
+    "runtime-main.js.map": "/sample/static/js/runtime-main.6ec3bd77.js.map",
+    "static/js/2.d1eb0c69.chunk.js": "/sample/static/js/2.d1eb0c69.chunk.js",
+    "static/js/2.d1eb0c69.chunk.js.map": "/sample/static/js/2.d1eb0c69.chunk.js.map",
+    "index.html": "/sample/index.html",
+    "precache-manifest.e510ad1003fdf8b53f2e1cd04e5cebe0.js": "/sample/precache-manifest.e510ad1003fdf8b53f2e1cd04e5cebe0.js",
+    "service-worker.js": "/sample/service-worker.js",
+    "static/css/main.4c719808.chunk.css.map": "/sample/static/css/main.4c719808.chunk.css.map",
+    "static/js/2.d1eb0c69.chunk.js.LICENSE.txt": "/sample/static/js/2.d1eb0c69.chunk.js.LICENSE.txt",
+    "static/media/Tanjiro.png": "/sample/static/media/Tanjiro.cc357a16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec3bd77.js",
+    "static/js/2.d1eb0c69.chunk.js",
+    "static/css/main.4c719808.chunk.css",
+    "static/js/main.fec47cf8.chunk.js"
+  ]
+}
